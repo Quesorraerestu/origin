@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				72,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONCIDLE"
+		},
+		{
+			"offsets": [
+				72,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICDOWN"
+		},
+		{
+			"offsets": [
+				209,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICLEFT"
+		},
+		{
+			"offsets": [
+				68,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICUP"
+		},
+		{
+			"offsets": [
+				6,
+				-168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ORIGINSSONIC-night",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		140,
+		215
+	],
+	"camera_position": [
+		120,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
