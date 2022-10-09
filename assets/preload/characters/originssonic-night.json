@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				72,
 				-158
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "SONCIDLE"
+			"fps": 24,
+			"name": "SONCIDLE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				72,
 				-209
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SONICDOWN"
+			"fps": 24,
+			"name": "SONICDOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				209,
 				-147
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SONICLEFT"
+			"fps": 24,
+			"name": "SONICLEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				68,
 				-99
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SONICUP"
+			"fps": 24,
+			"name": "SONICUP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				6,
 				-168
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SONICRIGHT"
+			"fps": 24,
+			"name": "SONICRIGHT",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "sonic",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		140,
-		215
+		32,
+		86,
+		191
 	],
 	"camera_position": [
 		120,
