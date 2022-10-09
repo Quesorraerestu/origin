@@ -1,0 +1,50 @@
+{
+	"storyName": "I Make 31 Years Look Good.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "greenhill",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Checkpoint",
+			"sonic",
+			[
+				86,
+				233,
+				93
+			]
+		],
+		[
+			"Checkpoint Act 2",
+			"sonic",
+			[
+				86,
+				233,
+				93
+			]
+		],
+		[
+			"speedstars",
+			"sonic",
+			[
+				0,
+				20,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"Sonic",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WeekOrigins"
+}
